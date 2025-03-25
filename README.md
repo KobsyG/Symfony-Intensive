@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/KobsyG/Symphony-Intensive?color=lightblue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KobsyG/Symphony-Intensive?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KobsyG/Symphony-Intensive?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/KobsyG/Symfony-Intensive?color=lightblue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KobsyG/Symfony-Intensive?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KobsyG/Symfony-Intensive?color=green" />
 </p>
 
 ## 💡 About the Project
